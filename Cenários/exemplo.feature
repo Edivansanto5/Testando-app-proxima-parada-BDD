@@ -8,6 +8,7 @@ Funcionalidade: [descrição da funcionalidade]
     Quando [ação executada pelo usuário]
     Então [resultado esperado]
     E [outro resultado esperado]
+    estrutura básica 
 
   Cenário: [outro comportamento esperado]
     ...
